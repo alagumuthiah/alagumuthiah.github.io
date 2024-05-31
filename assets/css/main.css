@@ -1786,12 +1786,12 @@ input, select, textarea {
 
 	header.major h2 {
 		color: #5f4d93;
-		font-size: 3.5em;
+		font-size: 2em;
 	}
 
 		header.major h2 + p {
 			color: #777;
-			font-size: 1.75em;
+			font-size: 1.5em;
 			font-weight: 700;
 			margin-top: -0.75em;
 		}
@@ -2385,7 +2385,7 @@ input, select, textarea {
 			padding: 0.35em 0 0 3.5em;
 			position: relative;
 			vertical-align: top;
-			width: 20%;
+			width: 18%;
 		}
 
 			ul.feature-icons li:before {
